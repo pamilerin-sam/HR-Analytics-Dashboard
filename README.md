@@ -78,15 +78,6 @@ The dashboard provides actionable insights to support **HR decision-making**, im
 * Data Analysis & Visualization
 
 
-
-## How to Use
-
-1. Open the dashboard file
-2. Explore different charts and KPIs
-3. Analyze workforce trends
-4. Use insights to support HR decisions
-
-
 ##  Business Recommendations
 
 * Improve employee satisfaction through engagement programs
